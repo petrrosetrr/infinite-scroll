@@ -1,0 +1,12 @@
+.scrollComponent {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 0.5rem;
+    max-width: 1400px;
+    width: 80%;
+    padding-top: 1.75rem;
+}
+
+.bottom {
+    height: 5rem;
+}
