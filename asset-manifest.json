@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://petrrosetrr.github.io/infinite-scroll/static/css/main.667b4d92.chunk.css",
+    "main.js": "https://petrrosetrr.github.io/infinite-scroll/static/js/main.1e561887.chunk.js",
+    "main.js.map": "https://petrrosetrr.github.io/infinite-scroll/static/js/main.1e561887.chunk.js.map",
+    "runtime-main.js": "https://petrrosetrr.github.io/infinite-scroll/static/js/runtime-main.0c16d46f.js",
+    "runtime-main.js.map": "https://petrrosetrr.github.io/infinite-scroll/static/js/runtime-main.0c16d46f.js.map",
+    "static/js/2.b10f3541.chunk.js": "https://petrrosetrr.github.io/infinite-scroll/static/js/2.b10f3541.chunk.js",
+    "static/js/2.b10f3541.chunk.js.map": "https://petrrosetrr.github.io/infinite-scroll/static/js/2.b10f3541.chunk.js.map",
+    "index.html": "https://petrrosetrr.github.io/infinite-scroll/index.html",
+    "static/css/main.667b4d92.chunk.css.map": "https://petrrosetrr.github.io/infinite-scroll/static/css/main.667b4d92.chunk.css.map",
+    "static/js/2.b10f3541.chunk.js.LICENSE.txt": "https://petrrosetrr.github.io/infinite-scroll/static/js/2.b10f3541.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c16d46f.js",
+    "static/js/2.b10f3541.chunk.js",
+    "static/css/main.667b4d92.chunk.css",
+    "static/js/main.1e561887.chunk.js"
+  ]
+}
